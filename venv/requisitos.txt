@@ -1,0 +1,11 @@
+numpy
+pandas
+matplotlib
+seaborn
+scipy
+jupyter
+pydicom
+pyedflib
+wfdb
+scikit-learn
+pyserial
